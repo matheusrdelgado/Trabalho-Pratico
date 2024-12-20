@@ -1,0 +1,5 @@
+2feira; 25.11.2024; Pescada grelhada com legumes;200; Frango estufado com arroz;350; Sopa de legumes com tofu;150; Espaguete à bolonhesa de lentilhas;280
+3feira; 26.11.2024; Salmão ao molho de ervas;220; Costeletas de porco com purê de batata;380; Peito de frango grelhado com salada;200; Lasanha de abobrinha;270
+4feira; 27.11.2024; Bacalhau à Gomes de Sá;250; Almondegas com molho de tomate;300; Pescada ao vapor com cenouras;180; Tofu salteado com vegetais;260
+5feira; 28.11.2024; Arroz de tamboril;270; Lombo de vaca grelhado;400; Salada de atum com grão-de-bico;190; Gratinado de couve-flor;240
+6feira; 29.11.2024; Filetes de pescada com arroz de legumes;240; Costeletas de borrego ao molho;450; Frango ao molho de limão;220; Risoto de cogumelos;310
